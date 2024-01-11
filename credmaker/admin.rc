@@ -1,0 +1,14 @@
+export OS_AUTH_URL=http//:www.chicken_noodle_soup.com
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=soup time
+export OS_PROJECT_DOMAIN_NAME=www.chicken_noodle_soup.com
+export OS_USERNAME=soup guy
+export OS_USER_DOMAIN_NAME=soup_guy.com
+export OS_PASSWORD=good_soup
+export OS_AUTH_URL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
